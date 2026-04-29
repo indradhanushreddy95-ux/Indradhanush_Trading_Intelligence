@@ -1,18 +1,19 @@
 import { anthropic } from '@ai-sdk/anthropic';
 import { generateText } from 'ai';
-import { ComposioToolSet } from '@composio/core';
+import { Composio } from '@composio/core';
+import { VercelProvider } from '@composio/vercel';
 import * as dotenv from 'dotenv';
 
 dotenv.config();
 
 async function main() {
-  const toolset = new ComposioToolSet();
+  const composio = new Composio({ provider: new VercelProvider() });
   
   console.log("Setting up Composio toolset...");
   
   // Note: Ensure you have connected the app using Composio CLI: `npx composio add github`
   try {
-    const tools = await toolset.getTools({ apps: ["github"] });
+    const tools = await composio.getTools({ apps: ["github"] });
 
     console.log("Starting conversation with the agent...");
     const result = await generateText({

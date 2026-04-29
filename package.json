@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@ai-sdk/anthropic": "^3.0.72",
+    "@composio/core": "^0.8.0",
+    "@composio/vercel": "^0.8.0",
+    "ai": "^6.0.170",
+    "dotenv": "^17.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  },
+  "scripts": {
+    "start": "tsx index.ts"
+  }
+}

@@ -16,7 +16,7 @@ async function main() {
 
     console.log("Starting conversation with the agent...");
     const result = await generateText({
-      model: anthropic('claude-3-5-sonnet-20240620'),
+      model: anthropic('claude-opus-4-6'),
       tools: tools,
       prompt: 'What are the tools available?',
       maxToolRoundtrips: 5,

@@ -2,7 +2,7 @@
 
   <img src="assets/logo.png" alt="Indradhanush · Agent Trading" width="400"/>
 
-  <h1>🌈 Indradhanush — Agent Trading</h1>
+  <h1>🌈 Indradhanush — QUANT TRADING FOR INDIAN DERIVATIVES</h1>
 
   <p><em>Built to be brave and disciplined.</em></p>
 

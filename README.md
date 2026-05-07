@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/composiohq/composio/master/docs/docs/img/logo.png" alt="Composio AI Agent" width="200"/>
-  <h1>Composio AI Agent</h1>
-  <p><strong>A powerful AI agent integrating Composio and Anthropic Claude to intelligently manage your GitHub workflows.</strong></p>
+  <img src="assets/logo.png" alt="AI Quant Trading Agent" width="400"/>
+  <h1>AI Quant Trading Agent</h1>
+  <p><strong>A multi-agents AI trading intelligence, Built on a hub-and-spoke architecture with seven specialist agents engineered for Indian derivatives trading, integrating real-time market data ingestion, option chain analytics, volatility regime detection, Monte Carlo backtesting. Real-time data pipelines, regime-aware strategy synthesis, and Greeks-based quantitative modeling.</strong></p>
 
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?logo=typescript)](https://www.typescriptlang.org/)
@@ -14,7 +14,7 @@
 
 ## 📖 Overview
 
-The **Composio AI Agent** is a next-generation AI automation tool. Built on top of the robust [Composio](https://composio.dev/) platform and the Vercel AI SDK, this agent leverages Anthropic's state-of-the-art **Claude 3 Opus** (`claude-opus-4-6`) to execute highly complex developer tasks, manage repositories, and interact with the GitHub ecosystem—all autonomously.
+The **AI Quant Trading Agent** is a next-generation AI automation tool. Built on top of the robust [Composio](https://composio.dev/) platform and the Vercel AI SDK, this agent leverages Anthropic's state-of-the-art **Claude 3 Opus** (`claude-opus-4-6`) to execute highly complex developer tasks, manage repositories, and interact with the GitHub ecosystem—all autonomously.
 
 ### 🌟 Key Features
 

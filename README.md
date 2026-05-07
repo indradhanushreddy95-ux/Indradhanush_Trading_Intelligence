@@ -23,9 +23,9 @@
 
 > **A short, personal note before the blueprint begins.**
 
-Rainbow, this document is your trading brain on paper. It is not a typical product spec. It is a single instruction set for Claude Code that captures everything you have planned: the philosophy, the architecture, the agents, the math, the risk rules, the dashboard, the database, and the workflow.
+This document is your trading brain on paper. It is not a typical product spec. It is a single instruction set for Claude Code that captures everything you have planned: the philosophy, the architecture, the agents, the math, the risk rules, the dashboard, the database, and the workflow. - BY Indradhanush
 
-Two earlier blueprints existed. The first focused on a private trading terminal for the Indian market. The second focused on a modular AI operating system where trading is the priority but travel and mindset projects can use the same architecture later. Both views are correct. They look at the same plan from two different angles.
+This is first focused on a private trading terminal for the Indian market. The second focused on a modular AI operating system where trading is the priority but travel and mindset projects can use the same architecture later. Both views are correct. They look at the same plan from two different angles.
 
 This document is the union of both. Where they overlapped, the stronger phrasing was kept. Where they differed, both views are presented so Claude Code can build a system that satisfies both.
 
